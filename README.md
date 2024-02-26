@@ -4,3 +4,5 @@
 * 👋 Hi I am Jyoti
 * 🎓 I have completed my graduation
 * 💻 Currently i'm pursuing Full Stack Web Development Course
+* 📘 My technical skills include HTML, CSS, JavaScript, Reactjs, Nodejs ect
+* 
