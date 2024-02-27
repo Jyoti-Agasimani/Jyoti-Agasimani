@@ -8,4 +8,5 @@
 * 🎓 I have completed my graduation
 * 💻 Currently I'm pursuing Full Stack Web Development Course
 * 📘 My technical skills include HTML, CSS, JavaScript, Reactjs, Nodejs ect
+* How to reach me : jyotiagasimani0@gmail.com
   
